@@ -1,12 +1,9 @@
 - 👋 Hi, I’m @scherzharry
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning c#,adanvced php and js
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 💞️ I’m looking to collaborate on our Chat App NexuinChat
+- 📫 Reach me through E-Mail: scherzharry@proton.me
+- ⚡ Fun fact:
+  The Linux kernel, the core part of the operating system, was created by Linus Torvalds and first released on September 17, 1991. Torvalds initially wanted to name it "Freax" (a combination of "free," "freak," and the Unix-like system it was based on). However, the name "Linux," derived from his first name, was suggested by the server admin who hosted the early versions, and it stuck!
 
-<!---
-scherzharry/scherzharry is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+ ![Anime](https://i.postimg.cc/kGTjqZdd/shikimoris-not-just-cute-shikimori.gif)
