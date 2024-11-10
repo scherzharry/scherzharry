@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @scherzharry
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning c#,adanvced php and js
+- 🌱 I’m currently learning c#, php, js, python
 - 💞️ I want to learn server stuff now
 - 📫 Reach me through E-Mail: scherzharry@proton.me
 - ⚡ Fun fact:
