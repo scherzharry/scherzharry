@@ -9,7 +9,7 @@
  ![Anime](shikimoris-not-just-cute-shikimori.gif)
 
  # What I do
- - Coding web App with Boostrap, Vanilla JS, Html & CSS
+ - Coding web apps with Boostrap, Vanilla JS, Html & CSS
  - Coding with Unity (C#)
  - Working on Python projects
 
