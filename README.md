@@ -12,5 +12,3 @@
  - Coding web apps with Boostrap, Vanilla JS, Html & CSS
  - Coding with Unity (C#)
  - Working on Python projects
-
-find me on Webx: kirinaru.uwu
